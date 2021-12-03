@@ -22,4 +22,4 @@ This is a project that showcases the hometowns of some of Practicum's employees.
 * Git
 
 
-Link to the site: 
+Link to the site: https://pavel-lantsman.github.io/web_project_3/
