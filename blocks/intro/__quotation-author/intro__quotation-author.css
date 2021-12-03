@@ -1,0 +1,25 @@
+.intro__quotation-author {
+    margin: 10px 0 32px;
+    padding: 0;
+    width: 720px;
+    height: 34px;
+    font-family: Inter, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 142%;
+    color: #FFFFFF;
+    text-align: right;
+}
+
+@media screen and (max-width: 1279px) {
+    .intro__paragraph {
+        max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro__paragraph {
+        max-width: 288px;
+    }
+}

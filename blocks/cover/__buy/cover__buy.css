@@ -1,0 +1,22 @@
+.cover__buy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 137px;
+    height: 48px;
+    background: #0278FE;
+    border-radius: 4px;
+    z-index: 1;
+
+    font-family: Inter, serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 100%;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.cover__buy:hover {
+    background-color: #0063D2;
+}
