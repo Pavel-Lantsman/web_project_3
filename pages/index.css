@@ -23,7 +23,7 @@
 /*elements*/
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__quotation/intro__quotation.css);
-@import url(../blocks/intro/__quotation-author/intro__quotation-author.css);
+@import url(../blocks/intro/__name/intro__name.css);
 @import url(../blocks/intro/__paragraph/intro__paragraph.css);
 
 /*foto-grid*/

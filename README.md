@@ -9,7 +9,6 @@
 
 This is a project that showcases the hometowns of some of Practicum's employees.
 
-
 **Technologies**
 
 * HTML5
@@ -20,6 +19,5 @@ This is a project that showcases the hometowns of some of Practicum's employees.
 * Flexbox
 * Developing a web interface for different devices
 * Git
-
 
 Link to the site: https://pavel-lantsman.github.io/web_project_3/
