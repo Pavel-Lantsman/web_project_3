@@ -1,0 +1,24 @@
+.intro__name {
+    margin: 10px 0 32px;
+    padding: 0;
+    max-width: 720px;
+    font-family: "Inter", Arial, sans-serif;;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 142%;
+    color: #FFFFFF;
+    align-self: flex-end;
+}
+
+@media screen and (max-width: 1279px) {
+    .intro__paragraph {
+        max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro__paragraph {
+        max-width: 288px;
+    }
+}
