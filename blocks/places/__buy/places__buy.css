@@ -17,7 +17,7 @@
     color: #FFFFFF;
     text-decoration: none;
     opacity: 1;
-    transition: opacity 1s linear;;
+    transition: opacity 1s linear;
 }
 
 .places__buy:hover {
