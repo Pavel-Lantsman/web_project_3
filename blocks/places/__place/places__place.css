@@ -4,8 +4,7 @@
     grid-template-areas:
   "title link"
   "picture paragraph"
-  "buy paragraph"
-  ". paragraph";
+  "buy paragraph";
     gap: 48px 40px;
 }
 

@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
     max-width: 656px;
-    font-family: Inter, serif;
+    font-family: "Inter", Arial, sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
     line-height: 106%;
     color: #FFFDFD;
-    z-index: 1;
+    z-index: 2;
 }
 
 

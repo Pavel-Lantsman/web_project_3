@@ -6,17 +6,20 @@
     height: 48px;
     background: #0278FE;
     border-radius: 4px;
-    z-index: 1;
+    z-index: 2;
 
-    font-family: Inter, serif;
+    font-family: "Inter", Arial, sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
-    line-height: 100%;
+    line-height: 122%;
     color: #FFFFFF;
     text-decoration: none;
+    opacity: 1;
+    transition: opacity 1s linear;
 }
 
 .cover__buy:hover {
     background-color: #0063D2;
+    opacity: 0.8;
 }
