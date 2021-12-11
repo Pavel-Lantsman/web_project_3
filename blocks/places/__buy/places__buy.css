@@ -9,17 +9,20 @@
     justify-content: center;
     align-items: center;
 
-    font-family: Inter, serif;
+    font-family: "Inter", Arial, sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
-    line-height: 100%;
+    line-height: 122%;
     color: #FFFFFF;
     text-decoration: none;
+    opacity: 1;
+    transition: opacity 1s linear;;
 }
 
 .places__buy:hover {
     background-color: #0063D2;
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {

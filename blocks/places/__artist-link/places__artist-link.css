@@ -1,23 +1,13 @@
 .places__artist-link {
     margin: 0;
     padding: 0;
-    max-width: 456px;
-    font-family: Inter, serif;
+    font-family: "Inter", Arial, sans-serif;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 18px;
     line-height: 122%;
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 1279px) {
-    .places__artist-link {
-        max-width: 352px;
-    }
-}
 
-@media screen and (max-width: 767px) {
-    .places__artist-link {
-        max-width: 288px;
-    }
-}
+

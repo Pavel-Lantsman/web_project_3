@@ -6,4 +6,11 @@
     align-items: center;
     justify-content: center;
     gap: 32px;
+
+}
+
+@media screen and (max-width: 767px) {
+    .cover__wrapper {
+        gap: 16px;
+    }
 }
