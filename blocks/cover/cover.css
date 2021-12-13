@@ -1,8 +1,28 @@
 .cover {
     max-width: 100%;
-    display: grid;
-    grid-template-columns: auto;
-    grid-template-rows: auto;
+    min-height: 740px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../images/background.png);
+    background-size: cover;
+    box-sizing: border-box;
+    z-index: 0;
     position: relative;
+}
+
+@media screen and (max-width: 1279px) {
+    .cover {
+        width: 768px;
+        min-height: 746px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .cover {
+        width: 320px;
+        min-height: 254px;
+    }
 }
 

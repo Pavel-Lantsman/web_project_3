@@ -22,7 +22,6 @@
 
 .places__buy:hover {
     background-color: #0063D2;
-    opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {
