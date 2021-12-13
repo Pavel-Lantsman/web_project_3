@@ -1,4 +1,7 @@
 .places__picture {
     grid-area: picture;
     max-width: 100%;
+    align-self: stretch;
+    justify-self: stretch;
+
 }
